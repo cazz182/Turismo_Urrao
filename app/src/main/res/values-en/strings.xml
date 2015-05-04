@@ -7,7 +7,7 @@
     <string name="about">About</string>
     <string name="aboutText">App created by Cristian Alejandro Zapata. Do not own the rights of any image used in this application</string>
 
-    <string name="app_name">Practica_4</string>
+    <string name="app_name">Tourism Urrao</string>
     <string name="hotels_description">Here you can find information about the best hotels available in Urrao...</string>
     <string name="bars_description">Information about the most visited bars in Urrao...</string>
     <string name="sites_description">Nice places to visit, having food and enjoy...</string>
@@ -73,12 +73,13 @@
 
     <string name="title_fonda_lamulera">BAR LA MULERA</string>
     <string name="description_fonda_lamulera">It is a bar located near the central park of Urrao. It has a place for horses and its decoration is representative of the culture of Antioquia</string>
-    <string name="title_activity_activity_hotels">Activity_hotels</string>
+
+    <string name="title_activity_activity_hotels">Hotels</string>
 
     <string name="hello_world">Hello world!</string>
-    <string name="title_activity_activity_bar">Activity_bar</string>
-    <string name="title_activity_activity_tourism">Activity_tourism</string>
-    <string name="title_activity_activity_info">Activity_info</string>
-    <string name="title_activity_activity__about">Activity_About</string>
+    <string name="title_activity_activity_bar">Bars</string>
+    <string name="title_activity_activity_tourism">Tourism</string>
+    <string name="title_activity_activity_info">Information</string>
+    <string name="title_activity_activity__about">About</string>
     <string name="action_settings">Settings</string>
 </resources>
